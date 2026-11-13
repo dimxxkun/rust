@@ -95,3 +95,4 @@ mod tests {
         assert!((entropy - 33.219).abs() < 0.01);
     }
 }
+

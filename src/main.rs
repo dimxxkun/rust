@@ -1,8 +1,8 @@
-use rust_quickstart::{calculate_entropy, generate_password, PasswordConfig, SimpleRng};
+use rust_starter::{calculate_entropy, generate_password, PasswordConfig, SimpleRng};
 
 fn main() {
     println!("=========================================");
-    println!("   Rust Quickstart - Password & Entropy  ");
+    println!("     Rust - Password & Entropy CLI       ");
     println!("=========================================");
 
     let mut rng = SimpleRng::new(987654321);

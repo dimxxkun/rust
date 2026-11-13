@@ -1,11 +1,11 @@
-# Rust Quickstart
+# Rust
 
 A clean, modular Rust starter repository demonstrating Cargo project structure, unit tests, and a CLI entropy & password generation utility without external dependencies.
 
 ## Project Structure
 
 ```
-rust-quickstart/
+rust/
 ├── Cargo.toml
 ├── README.md
 ├── .gitignore
@@ -39,7 +39,7 @@ cargo test
 cargo build --release
 ```
 
-The optimized binary will be placed in `target/release/rust-quickstart`.
+The optimized binary will be placed in `target/release/rust_starter`.
 
 ## License
 
