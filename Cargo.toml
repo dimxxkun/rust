@@ -4,6 +4,6 @@ version = "0.1.0"
 edition = "2021"
 authors = ["dimxxkun <work.abdulfatai@gmail.com>"]
 description = "A clean Rust starter project demonstrating modular CLI design, entropy calculations, and testing."
-license = "MIT"
+license-file = "LICENSE"
 
 [dependencies]
